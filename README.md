@@ -4,6 +4,7 @@ Driven and impactful software innovator with an analytical mindset and 14+ years
 
 - **Medical Imaging**
 - **Computer Vision**
+- **AI Generative and Agentic Soluitions**
 - **Surgical Planning**
 - **Robotics & Biomechanics**
 
