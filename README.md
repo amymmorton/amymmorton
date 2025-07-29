@@ -11,10 +11,10 @@ Driven and impactful software innovator with an analytical mindset and 14+ years
 ## 🛠️ Technical Skills
 
 **Languages & Tools:**  
-Python · MATLAB (world-class expertise) · Qt · CMake · GitHub · C++
+Python · MATLAB (world-class expertise) · Git · C++ literacy | Claude | Perplexity | Lovable | Plotly Studio | Zapier | Open AI | Deep Learning
 
 **Frameworks & Libraries:**  
-SAM · VS Code/Studio · PyTorch · TensorFlow · scikit-learn · NumPy · pandas · PIL · matplotlib · VTK · OpenCV · DICOM 
+SAM · VS Code/Studio · PyTorch · TensorFlow · scikit-learn · NumPy · pandas · seaborn · numpy ·  PIL · matplotlib · VTK · OpenCV · DICOM 
 
 ## 💡 What I Do
 
