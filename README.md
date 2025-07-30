@@ -1,4 +1,4 @@
-# Hi, I’m [Amy Morton](https://amymmorton.squarespace.com/s/AmyMorton-DataScienceConceptDeveloper.pdf) 👋
+# Hi, I’m [Amy Morton](https://amymmorton.squarespace.com/s/AmyMorton-DataScienceMedicalImagingML.pdf) 👋
 
 Driven and impactful software innovator with an analytical mindset and 14+ years of data-driven development, modernization, and interdisciplinary experience. I’m passionate about open-source collaboration and thrive in designing and delivering novel data analysis protocols and software solutions for:
 
